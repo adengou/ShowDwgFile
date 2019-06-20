@@ -1,0 +1,12 @@
+f:\c#\ReadCADFile\ReadCADFile\obj\Release\ReadCADFile.Properties.Resources.resources
+f:\c#\ReadCADFile\ReadCADFile\obj\Release\ReadCADFile.ReadCADFile.resources
+f:\c#\ReadCADFile\ReadCADFile\obj\Release\ReadCADFile.csproj.GenerateResource.Cache
+F:\c#\ReadCADFile\ReadCADFile\bin\Release\ReadCADFile.exe.config
+F:\c#\ReadCADFile\ReadCADFile\bin\Release\ReadCADFile.exe
+F:\c#\ReadCADFile\ReadCADFile\bin\Release\ReadCADFile.pdb
+F:\c#\ReadCADFile\ReadCADFile\bin\Release\WW.Cad.dll
+F:\c#\ReadCADFile\ReadCADFile\bin\Release\WW.dll
+F:\c#\ReadCADFile\ReadCADFile\bin\Release\WW.GL.dll
+F:\c#\ReadCADFile\ReadCADFile\bin\Release\WW.Pdf.dll
+F:\c#\ReadCADFile\ReadCADFile\obj\Release\ReadCADFile.exe
+F:\c#\ReadCADFile\ReadCADFile\obj\Release\ReadCADFile.pdb

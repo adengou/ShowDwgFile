@@ -1,0 +1,8 @@
+f:\c#\ReadCADFile\ReadCADFile\bin\Debug\ReadCADFile.exe
+f:\c#\ReadCADFile\ReadCADFile\bin\Debug\ReadCADFile.pdb
+f:\c#\ReadCADFile\ReadCADFile\obj\Debug\ReadCADFile.csprojResolveAssemblyReference.cache
+f:\c#\ReadCADFile\ReadCADFile\obj\Debug\ReadCADFile.Properties.Resources.resources
+f:\c#\ReadCADFile\ReadCADFile\obj\Debug\ReadCADFile.ReadCADFile.resources
+f:\c#\ReadCADFile\ReadCADFile\obj\Debug\ReadCADFile.csproj.GenerateResource.Cache
+f:\c#\ReadCADFile\ReadCADFile\obj\Debug\ReadCADFile.exe
+f:\c#\ReadCADFile\ReadCADFile\obj\Debug\ReadCADFile.pdb
